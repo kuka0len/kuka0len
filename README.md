@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**kuka0len/kuka0len** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm kuka0len, a Web Developer :)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: my portfolio and a few other things
+- 🌱 I’m currently learning: everything :)
+- 👯 I’m looking to collaborate on: anything that has to do with scientific e-learning
+- 🤔 I’m looking for help with: everything lol
+- 💬 Ask me about: anything
+- 📫 How to reach me: message me on twitter 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm actually a monkey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kuka0len&layout=compact&bg_color=161B22&hide_border=true&title_color=5CA8FC&text_color=C9D1D9)
